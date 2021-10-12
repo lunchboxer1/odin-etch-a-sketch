@@ -1,0 +1,10 @@
+16*16 grid of d ivs
+inside of a container div
+
+hover effect (mouse enter/exits div)
+    -change color
+
+clear button
+    -prompt for new grid size
+
+rainbow, black and pencil modes

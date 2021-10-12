@@ -1,0 +1,38 @@
+* {
+    color: #ffffff;
+}
+
+body {
+    background-color: #272626;
+    align-items: center;
+    text-align: center;
+}
+
+#content {
+    background-color: #272626;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    gap: 5px;
+}
+
+#controls {
+    background-color: #aaaaaa;
+    display: flex;
+    flex-direction: column;
+    padding: 4px;
+}
+
+#sketch-pad {
+    background-color: #bbbbbb;
+    height: 900px;
+    width: 900px;
+    padding: 4px;
+}
+
+button {
+    width: auto;
+    padding: 3px;
+    font-size: 24px;
+    background-color: #272626;
+}
